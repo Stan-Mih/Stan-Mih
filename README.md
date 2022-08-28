@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Stanislav Mihaylov</h1>
-<h3 align="center">Just started with my JS course</h3>
+<h3 align="center">Just started with my JS Fundametals course</h3>
 <img align="right" alt="Typing" width="400" src="http://www.reactiongifs.com/r/ktpng.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
